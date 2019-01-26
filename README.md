@@ -1,2 +1,2 @@
 # Face-detection
-Face detection using Python.
+Face detection using Python with CMake.
